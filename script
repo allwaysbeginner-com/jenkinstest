@@ -2,3 +2,4 @@ echo "This is a test"
 sleep 100
 echo "Script Test"
 echo "test3"
+echo "12345"
