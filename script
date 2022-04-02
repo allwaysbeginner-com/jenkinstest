@@ -1,7 +1,10 @@
 echo "This is a test"
 sleep 100
+pwd
+ls
 echo "Script Test"
 echo "test3"
 echo "12345"
 echo "test"
 echo "421"
+pwd
