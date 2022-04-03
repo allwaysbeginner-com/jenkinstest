@@ -11,3 +11,4 @@ echo "test"
 pwd
 pwd
 ls
+echo "new"
