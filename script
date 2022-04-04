@@ -2,13 +2,5 @@ echo "This is a test"
 sleep 10
 pwd
 ls
-echo "Script Test"
-echo "test3"
-echo "12345"
-echo "test"
-echo "4a2sd12ddb-sssss"
-echo "test"
-pwd
-pwd
-ls
-echo "new"
+
+echo "test finished"
