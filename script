@@ -3,4 +3,4 @@ sleep 13
 pwd
 ls
 ls -al
-echo "test finished"
+echo "test finished 3"
