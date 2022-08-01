@@ -21,4 +21,8 @@ spec:
         image: nginx:1.14.2
         ports:
         - containerPort: 80
+      - name: tomcat
+        image: tomcat:8.5.39-jre8-alpine
+        ports:
+        - containerPort: 8080
  #tests
